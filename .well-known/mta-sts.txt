@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: easycare365-cz.mail.protection.outlook.com
 mx: *.mail.protection.outlook.com
 max_age: 604800
